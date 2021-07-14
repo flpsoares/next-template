@@ -1,4 +1,4 @@
-This is a model of a project using [NextJS](https://nextjs.org/), [Styled-Components](https://styled-components.com/), [ESLint](https://eslint.org/), [Prettier](https://prettier.io/), and [Husky](https://www.npmjs.com/package/husky) with [conventional commits](https://github.com/conventional-changelog/commitlint).
+This is a model of a project using [NextJS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/), [Styled-Components](https://styled-components.com/), [ESLint](https://eslint.org/), [Prettier](https://prettier.io/), and [Husky](https://www.npmjs.com/package/husky) with [conventional commits](https://github.com/conventional-changelog/commitlint).
 
 ## Getting Started
 
