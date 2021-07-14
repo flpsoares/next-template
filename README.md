@@ -9,3 +9,9 @@ yarn husky install
 # and
 yarn husky add .husky/commit-msg 'npx --no-install commitlint --edit "$1"'
 ```
+
+After executing these 2 commands, execute:
+
+```bash
+yarn dev
+```
